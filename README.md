@@ -14,16 +14,15 @@ Data Sources
 The project utilizes data from Adventure Works, which includes sales transactions, product information, customer demographics, and geographical data. These datasets are integrated into Power BI for analysis and visualization.
 
 **Getting Started**
-To explore the project:
-
+**To explore the project:**
 Clone the repository to your local machine.
 Open the Power BI file (.pbix) using Power BI Desktop.
 Explore the different tabs and visuals to gain insights into Adventure Works' business performance.
 Customize the reports and visuals as per your requirements.
-Requirements
+**Requirements**: 
 Power BI Desktop (latest version recommended)
 Basic understanding of Power BI and data analysis concepts
 
-**Acknowledgments**
+**Acknowledgments**:
 Special thanks to Maven Analytics for providing the Adventure Works dataset and inspiration for this project.
 Thanks to the Power BI community for their valuable resources and support.
