@@ -5,11 +5,11 @@ This Power BI project focuses on analyzing data from Adventure Works, a fictiona
 Adventure Works operates retail shops across multiple continents, and this project aims to analyze various aspects of its business, including sales, products, customers, and geographical performance. By leveraging Power BI, we visualize key metrics and trends to help stakeholders make informed decisions and optimize business processes.
 
 # Key Features
-**Sales Analysis**: Explore sales data to identify top-performing products, regions, and customer segments.
-**Product Performance:** Analyze product performance metrics such as sales revenue, profitability, and inventory levels.
-**Customer Insights:** Understand customer behavior, preferences, and demographics to tailor marketing strategies.
-**Geographical Analysis:** Visualize sales distribution and performance across different continents and regions.
-**Dashboard & Reports:** Present findings through interactive dashboards and detailed reports for stakeholders.
+  **Sales Analysis**: Explore sales data to identify top-performing products, regions, and customer segments.
+  **Product Performance:** Analyze product performance metrics such as sales revenue, profitability, and inventory levels.
+  **Customer Insights:** Understand customer behavior, preferences, and demographics to tailor marketing strategies.
+  **Geographical Analysis:** Visualize sales distribution and performance across different continents and regions.
+  **Dashboard & Reports:** Present findings through interactive dashboards and detailed reports for stakeholders.
 
 # Data Sources
 The project utilizes data from Adventure Works, which includes sales transactions, product information, customer demographics, and geographical data. These datasets are integrated into Power BI for analysis and visualization.
